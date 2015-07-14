@@ -1,0 +1,36 @@
+h1 {
+  font-weight: 200;
+font-family: 'Seaweed Script', cursive;
+}
+
+body {
+  background-image: url("art.gif");
+  background-color: #cccccc;
+}
+
+#Pictures {
+  border: 20px solid black;
+  background-image: url("galaxy.gif");
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.Love {
+  color: white;
+}
+
+#list {
+  color: white;
+  background-color: black;
+  padding: 20px
+}
+
+.title {
+  padding: 28px;
+  border-image-source: url("flowers.jpg");
+  border-image-slice: 31;
+  border-image-width: 31px;
+  border-image-outset: 10px;
+  color: white;
+  background-color: black;
+}
